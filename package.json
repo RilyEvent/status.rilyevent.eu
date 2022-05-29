@@ -1,8 +1,8 @@
 {
-  "name": "status-gommehd-net",
+  "name": "status-rilyevent-eu",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://status.gommehd.net/",
+  "homepage": "https://status.rilyevent.eu/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
@@ -24,7 +24,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build && cp ./build/index.html ./build/404.html",
+    "predeploy": "npm run build && cp ./build/index.html ./build/404.html && echo 'status.rilyevent.eu' > ./build/CNAME",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
