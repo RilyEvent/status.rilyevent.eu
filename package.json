@@ -2,7 +2,7 @@
   "name": "status-rilyevent-eu",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://status.rilyevent.eu/",
+  "homepage": "https://rilyevent.github.io/status.rilyevent.eu/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
