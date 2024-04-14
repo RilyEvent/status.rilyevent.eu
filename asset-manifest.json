@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/status.rilyevent.eu/static/css/main.7a8e4cad.chunk.css",
+    "main.js": "/status.rilyevent.eu/static/js/main.5fd2fb71.chunk.js",
+    "main.js.map": "/status.rilyevent.eu/static/js/main.5fd2fb71.chunk.js.map",
+    "runtime-main.js": "/status.rilyevent.eu/static/js/runtime-main.6e1f472d.js",
+    "runtime-main.js.map": "/status.rilyevent.eu/static/js/runtime-main.6e1f472d.js.map",
+    "static/js/2.645d77fa.chunk.js": "/status.rilyevent.eu/static/js/2.645d77fa.chunk.js",
+    "static/js/2.645d77fa.chunk.js.map": "/status.rilyevent.eu/static/js/2.645d77fa.chunk.js.map",
+    "index.html": "/status.rilyevent.eu/index.html",
+    "static/css/main.7a8e4cad.chunk.css.map": "/status.rilyevent.eu/static/css/main.7a8e4cad.chunk.css.map",
+    "static/js/2.645d77fa.chunk.js.LICENSE.txt": "/status.rilyevent.eu/static/js/2.645d77fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e1f472d.js",
+    "static/js/2.645d77fa.chunk.js",
+    "static/css/main.7a8e4cad.chunk.css",
+    "static/js/main.5fd2fb71.chunk.js"
+  ]
+}
